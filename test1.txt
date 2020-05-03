@@ -4,3 +4,4 @@ bbbb2
 bb
 dev
 11111
+self
